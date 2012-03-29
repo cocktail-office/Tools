@@ -1,0 +1,6 @@
+[submodule "RGrhum"]
+	path = RGrhum
+	url = https://cocktail-office@github.com/cocktail-office/RGrhum.git
+[submodule "ServAut"]
+	path = ServAut
+	url = https://cocktail-office@github.com/cocktail-office/ServAut.git
